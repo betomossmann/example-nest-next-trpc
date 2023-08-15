@@ -552,3 +552,11 @@ export default function ClientSide() {
 Parabéns! Você configurou um repositório monorepo que integra NestJS, NextJS e tRPC. Agora, você pode desenvolver facilmente aplicações FullStack mantendo uma organização eficiente e uma experiência de desenvolvimento suave.
 
 Divirta-se desenvolvendo! 🚀
+
+## Autores
+
+- Tom Ray [@tomwray13](https://www.tomray.dev/)
+
+## Tradutor:
+
+- Gilberto Mossmann [@betomossmann](https://github.com/betomossmann) [BDev](http://beto.dev.br/)
