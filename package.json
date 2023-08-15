@@ -1,0 +1,16 @@
+{
+  "name": "example-nest-next-trpc",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm run --parallel dev",
+    "build:server": "pnpm --filter server build",
+    "build:web": "pnpm --filter web build",
+    "start:server": "pnpm --filter server start:prod",
+    "start:web": "pnpm --filter web start"
+  },
+  "keywords": [],
+  "author": "Beto Mossmann",
+  "license": "ISC"
+}
