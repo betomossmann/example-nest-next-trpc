@@ -559,4 +559,4 @@ Divirta-se desenvolvendo! 🚀
 
 ## Tradutor:
 
-- Gilberto Mossmann [@betomossmann](https://github.com/betomossmann) [BDev](http://beto.dev.br/)
+- Gilberto Mossmann [@betomossmann](https://github.com/betomossmann) [BDev](https://beto.dev.br/)
